@@ -5,7 +5,10 @@ Collatz Sanısını Test Eden Ve Kanıtlayan Bir Python Programı.
 
 # Kullanım
 
-Terminalde: `python3 Collatz-Sanisi.py` \
+Terminalde: \
+1- `git clone https://github.com/detherminal/Collatz-Sanisi` \
+2- `cd Collatz-Sanisi`
+3- `python3 Collatz-Sanisi.py` \
 Sonrasında ekrandaki talimatları takip ediniz.
 
 # Collatz Sanısı'nın Detayları
