@@ -9,7 +9,7 @@ ButunSayilariDene = False
 
 # Hızlı mod istiyorsanız bu değişkeni True yapınız
 # Hızlı mod istemiyorsaniz bu değişkeni False yapınız
-HızlıMod = True
+HizliMod = True
 
 def is_int(s):
     try:
@@ -55,7 +55,7 @@ if (ButunSayilariDene):
         continue        
 else:
     # Yavaş Mod Kontrolü
-    if (HızlıMod == False):
+    if (HizliMod == False):
         print("İşlem Yapılmaya Başlanıyor")
         time.sleep(1)
         print(sayi)
