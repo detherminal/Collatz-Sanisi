@@ -6,7 +6,7 @@ Collatz Sanısını Test Eden Ve Kanıtlayan Bir Python Programı.
 # Kullanım
 
 Terminalde: `python3 Collatz-Sanisi.py` \
-Sonrasında talimatları takip ediniz.
+Sonrasında ekrandaki talimatları takip ediniz.
 
 # Collatz Sanısı'nın Detayları
 
