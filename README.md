@@ -17,6 +17,10 @@ Temelde fonksiyon iki işlemden ibarettir, eğer sayı çift ise 2'ye bölünür
 Fonksiyon'un matematiksel görüntüsü: \
 ![fonksiyon](https://raw.githubusercontent.com/detherminal/Collatz-Sanisi/main/collatz-sanisi.png)
 
+----------------------------------------------------
+
+*Detherminal tarafından yapıldı, tüm hakları saklıdır.*
+
 
 
 
