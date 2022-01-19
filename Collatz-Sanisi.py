@@ -1,7 +1,7 @@
 import time
 from typing import NoReturn
 
-# Çalıştırmak için bunu kopyalayın "python3 3x+1cikmazi.py"
+# Çalıştırmak için bunu kopyalayın "python3 Collatz-Sanisi.py"
 
 # Bütün sayıların denenmesini istiyorsanız bunu True yapınız
 # Bütün sayıların denenmesini istemiyorsanız bunu False yapınız
