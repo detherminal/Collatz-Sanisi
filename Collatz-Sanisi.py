@@ -20,7 +20,7 @@ def is_int(s):
 
 # Başta girilen sayı
 while True:
-    if (!ButunSayilariDene):
+    if (ButunSayilariDene = False):
         sayi = (input("Başlangıç Tam Sayısını Giriniz: "))
         if (is_int(sayi)):
             sayi = int(sayi)
