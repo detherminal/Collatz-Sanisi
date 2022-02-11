@@ -1,5 +1,4 @@
 import time
-from typing import NoReturn
 
 # Çalıştırmak için bunu kopyalayın "python3 Collatz-Sanisi.py"
 
@@ -28,7 +27,7 @@ while True:
         else:
             print("Lütfen Tam Sayı Giriniz.")
             time.sleep(1)
-            NoReturn
+            continue
 
 # Bütün Sayıları Dene Kontrolü
 if (ButunSayilariDene):
